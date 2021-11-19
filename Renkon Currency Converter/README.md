@@ -32,7 +32,7 @@ The amount is then entered.
 
 <img width="532" alt="Screenshot 2021-11-20 at 12 41 03 AM" src="https://user-images.githubusercontent.com/94697656/142679272-203f4572-3125-4c41-af65-e78f24031cc3.png">  
 
-Now the result is displayed by **Renkon** as follows:  
+Now the result is displayed by **Renkon** as well as the time and date of last updation of exchange rate is displayed as follows:  
 <img width="843" alt="Screenshot 2021-11-20 at 12 41 58 AM" src="https://user-images.githubusercontent.com/94697656/142679399-2007e7cc-b6cc-4254-a28d-0e6a4bf87240.png">
 
 Furthermore, the follwing the table is displayed:  
@@ -64,6 +64,15 @@ In the end, **Renkon** asks whether one would like to continue or not and based 
 <img width="522" alt="Screenshot 2021-11-20 at 12 44 03 AM" src="https://user-images.githubusercontent.com/94697656/142680792-7a1c899e-a4db-42a9-a009-a1882927d565.png">  
 
 Do check the program code for detailed explanation of the code.
+
+## Features
+1. An efficient currency convertor that converters and works for over 172 currencies, including Bitcoin(XBT) and IMF Special Drawing Rights(XDR).
+2. The exchange rates used are updated in real time, just seconds after the program runs.
+3. The time and date of the updation of exchange rates is also displayed to showcase preciseness of data.
+4. Based on the input, the High, Low, Average and Volatility stats are displayed for the last 30 and 90 days.
+5. The stats of the currencies entered is displayed (as shown above).
+6. Moreover the profiles of the currencies entered is also displayed (as shown above).
+7. Extracts data effieciently and covers all 'corner' cases of different currency webpages of the website so as to provide an impeccable performance for all currency codes.
 
 ## Tech/Framework Used
 [Jupyter Notebook](https://jupyter.org/)
