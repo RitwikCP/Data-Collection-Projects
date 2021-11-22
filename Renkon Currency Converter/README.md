@@ -74,10 +74,10 @@ Do check the program code for detailed explanation of the code.
 6. Moreover the profiles of the currencies entered is also displayed (as shown above).
 7. Extracts data efficiently and covers all 'corner' cases of different currency webpages of the website so as to provide an impeccable performance for all currency codes.
 
-## Tech/Framework Used
+## TECH/FRAMEWORK USED
 [Jupyter Notebook](https://jupyter.org/)
 
-## Credits
+## CREDITS
 This project was inspired by the following sources:
 1. [Web Scrapping Project from scratch by Jovian](https://www.youtube.com/watch?v=RKsLLG-bzEY)
 2. [Web scrapping project guide](https://jovian.ai/aakashns/python-web-scraping-project-guide)
