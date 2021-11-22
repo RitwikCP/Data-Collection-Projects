@@ -72,7 +72,7 @@ Do check the program code for detailed explanation of the code.
 4. Based on the input, the High, Low, Average and Volatility stats are displayed for the last 30 and 90 days.
 5. The stats of the currencies entered is displayed (as shown above).
 6. Moreover the profiles of the currencies entered is also displayed (as shown above).
-7. Extracts data effieciently and covers all 'corner' cases of different currency webpages of the website so as to provide an impeccable performance for all currency codes.
+7. Extracts data efficiently and covers all 'corner' cases of different currency webpages of the website so as to provide an impeccable performance for all currency codes.
 
 ## Tech/Framework Used
 [Jupyter Notebook](https://jupyter.org/)
