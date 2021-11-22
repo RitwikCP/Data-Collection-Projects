@@ -35,7 +35,7 @@ The amount is then entered.
 Now the result is displayed by **Renkon** as well as the time and date of last updation of exchange rate is displayed as follows:  
 <img width="843" alt="Screenshot 2021-11-20 at 12 41 58 AM" src="https://user-images.githubusercontent.com/94697656/142679399-2007e7cc-b6cc-4254-a28d-0e6a4bf87240.png">
 
-Furthermore, the follwing the table is displayed:  
+Furthermore, the follwing the table is displayed: 
 
 <img width="346" alt="Screenshot 2021-11-20 at 12 42 24 AM" src="https://user-images.githubusercontent.com/94697656/142679605-a81d0b60-c1c8-4111-bab5-26084e4bdb86.png">  
 
@@ -50,7 +50,7 @@ Furthermore, the follwing the table is displayed:
 | Average      | These are the average exchange rates of these two currencies for the last 30 and 90 days.     |
 | Volatility | These percentages show how much the exchange rate has fluctuated over the last 30 and 90-day periods. |  
 
-Then, British Pound and Yemeni Rial stats are displayed.  
+Then, British Pound and Yemeni Rial stats are displayed ( any currency data that is not available for extraction is shown as an empty field in the table ).
 
 <img width="297" alt="Screenshot 2021-11-20 at 12 42 42 AM" src="https://user-images.githubusercontent.com/94697656/142680491-216cfb0f-d917-40b0-a623-081db1fefd8a.png">
 
