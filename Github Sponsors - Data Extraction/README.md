@@ -8,7 +8,7 @@ The main motivation behind this project was to get a hands-on experience in web-
 
 
 ## INTRODUCTION AND WORKING
-The project requires certain information to be extracted from the. webpage stated above. To accomplish that, a plethora of functions and extraction strategies are used. Let's dive into more details.
+The project requires certain information to be extracted from the webpage stated above. To accomplish that, a plethora of functions and extraction strategies are used. Let's dive into more details.
 
 The following information is extracted from the webpage:
 
